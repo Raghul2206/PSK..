@@ -1,4 +1,4 @@
-# PSK Modulation and Demodulation
+# PSK Modulation and Demodulation.
 
 ## Aim:
 To implement a Python program for the modulation and demodulation of Phase Shift Keying (PSK) and visualize the output.
